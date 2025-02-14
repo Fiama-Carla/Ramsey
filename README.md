@@ -12,5 +12,5 @@ O projeto explora abordagens computacionais para encontrar contraexemplos nos n√
 
 1. **Clone o reposit√≥rio**:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/Fiama-Carla/Ramsey.git
 ****
